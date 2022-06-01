@@ -14,9 +14,9 @@ Clone of the TikTok app layout.
 
 <p align="center">
 
-  <img alt="shields.io" src="https://img.shields.io/github/repo-size/matheuscastroweb/tiktok-clone" />
-  <img alt="shields.io" src="https://img.shields.io/github/issues/matheuscastroweb/tiktok-clone" />
-   <img alt="shields.io" src="https://img.shields.io/github/license/matheuscastroweb/tiktok-clone" />
+  <img alt="shields.io" src="https://img.shields.io/github/repo-size/RayFisher-24/Tiktok-Clone-App" />
+  <img alt="shields.io" src="https://img.shields.io/github/issues/RayFisher-24/Tiktok-Clone-App" />
+   <img alt="shields.io" src="https://img.shields.io/github/license/RayFisher-24/Tiktok-Clone-App" />
 
 </p>
 
